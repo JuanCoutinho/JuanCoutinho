@@ -7,7 +7,6 @@
 
 Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvolvimento de software e gosto de criar soluções que fazem a diferença, apoio o Open-Source. No meu GitHub, você encontrará uma variedade de projetos que refletem minhas habilidades e interesses.
 
-- 🌍 Baseado em: Mongaguá, Brasil
 - 💼 Trabalhando como: Desenvolvedor Web Fullstack
 - 🎓 Formação: Desenvolvimento de Software
 
