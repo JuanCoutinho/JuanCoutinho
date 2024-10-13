@@ -46,7 +46,7 @@ Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvol
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reddevx&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JuanCoutinhox&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
