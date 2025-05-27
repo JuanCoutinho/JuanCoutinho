@@ -25,13 +25,6 @@ Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvol
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-
-## ⭐ Testemunhos
-
-> "Juan sempre se mostrou um profissional qualificado e dedicado na área de desenvolvimento de sistemas, demonstrando capacidade técnica em seus projetos e atividades. Em trabalhos que fiz junto com Juan sempre mostrou dedicação e comprometimento. Recomendo ele por ser um profissional muito eficaz e produtivo!" - [Lucas Batista](https://www.linkedin.com/in/lucas-batista-004212263/)
-
----
-
 ## 📫 Como Me Encontrar
 
 <p align="center">
