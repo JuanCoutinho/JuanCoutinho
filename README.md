@@ -6,11 +6,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-[cite_start]Desenvolvedor Backend Júnior com uma base sólida em **Ruby on Rails** e **Python**[cite: 5]. [cite_start]Meu foco é construir soluções web eficientes e escaláveis, sempre aplicando as melhores práticas de **Clean Code** e metodologias ágeis como **Scrum** e **Kanban**[cite: 6, 23].
+Desenvolvedor Backend Júnior com uma base sólida em **Ruby on Rails** e **Python**. Meu foco é construir soluções web eficientes e escaláveis, sempre aplicando as melhores práticas de **Clean Code** e metodologias ágeis como **Scrum** e **Kanban**.
 
-[cite_start]Minha jornada inclui a criação de aplicações web e mobile, contribuindo com código em **Node.js**, **Ruby on Rails** e **PostgreSQL**[cite: 7, 11, 16]. Estou constantemente aprendendo e buscando minha primeira grande oportunidade para agregar valor a uma equipe inovadora e colaborativa.
+Minha jornada inclui a criação de aplicações web e mobile, contribuindo com código em **Node.js**, **Ruby on Rails** e **PostgreSQL**. Estou constantemente aprendendo e buscando minha primeira grande oportunidade para agregar valor a uma equipe inovadora e colaborativa.
 
-- [cite_start]🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNISANTA[cite: 25].
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNISANTA.
 - 💼 Atualmente buscando uma posição como Desenvolvedor Backend Júnior.
 - 🌱 Interessado em Open-Source, desenvolvimento de APIs e arquitetura de software.
 
