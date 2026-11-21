@@ -1,68 +1,19 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Juan+Coutinho;Desenvolvedor+Backend+Jr.;Focado+em+Ruby+on+Rails+e+Python+🚀" alt="Typing SVG">
-</p>
+## Juan Coutinho
 
----
+Backend & Full-Stack Software Engineer building scalable web applications, SaaS products, and local AI automation pipelines.
 
-## 👨‍💻 Sobre Mim
+- **Education:** Systems Analysis & Development — UNISANTA
+- **Focus:** Distributed systems, API design, database optimization, and LLM-driven workflows
+- **Ventures:** Co-founder & Engineer at **Horizon Valley**
 
-Desenvolvedor Backend Júnior com uma base sólida em **Ruby on Rails** e **Python**. Meu foco é construir soluções web eficientes e escaláveis, sempre aplicando as melhores práticas de **Clean Code** e metodologias ágeis como **Scrum** e **Kanban**.
+### Tech Stack
 
-Minha jornada inclui a criação de aplicações web e mobile, contribuindo com código em **Node.js**, **Ruby on Rails** e **PostgreSQL**. Estou constantemente aprendendo e buscando minha primeira grande oportunidade para agregar valor a uma equipe inovadora e colaborativa.
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,py,php,postgres,mysql,redis,linux,aws,azure,git&theme=dark&perline=6" alt="Tech Stack" />
+</a>
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNISANTA.
-- 💼 Atualmente buscando uma posição como Desenvolvedor Backend Júnior.
-- 🌱 Interessado em Open-Source, desenvolvimento de APIs e arquitetura de software.
+### Links
 
----
-
-## 🛠️ Tech Stack & Ferramentas
-
-Minha stack de desenvolvimento inclui, mas não se limita a:
-
-<p align="center">
-  <strong>Linguagens:</strong><br>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
-</p>
-<p align="center">
-  <strong>Frameworks & Bibliotecas:</strong><br>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Sidekiq-A70000?style=for-the-badge&logo=sidekiq&logoColor=white" alt="Sidekiq">
-</p>
-<p align="center">
-  <strong>Bancos de Dados:</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
-<p align="center">
-  <strong>Ferramentas & Infraestrutura:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-</p>
-
----
-
-## 📫 Entre em Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juancoutinho">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-juancoutinho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:juan.devx@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-juan.devx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanCoutinho&style=for-the-badge&color=00bfbf" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancoutinho)
+[![Email](https://img.shields.io/badge/juan.devx@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:juan.devx@gmail.com)
+[![Portfolio](https://img.shields.io/badge/juancoutinho.online-111111?style=flat-square&logo=safari&logoColor=white)](https://juancoutinho.online)
