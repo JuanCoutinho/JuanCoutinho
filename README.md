@@ -1,6 +1,6 @@
 <!-- BANNER PERSONALIZADO DE IMPACTO -->
 <p align="center">
-  <img src="Insira-O-Link-Da-Sua-Imagem-Aqui.png" alt="Juan Coutinho - Backend & Full-Stack Engineer" width="100%" />
+  <img src="Insira-https://i.pinimg.com/736x/2a/eb/39/2aeb39839bbbe5b4b0881673d5391c29.jpg" alt="Juan Coutinho - Backend & Full-Stack Engineer" width="100%" />
 </p>
 
 <!-- EFEITO MÁQUINA DE ESCREVER (MAIOR E COM FONTE MAIS BONITA) -->
